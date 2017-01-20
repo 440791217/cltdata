@@ -1,0 +1,14 @@
+{
+  "name": "mark_cltdata",
+  "version": "1.0.0",
+  "description": "by mark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mark",
+  "license": "ISC",
+  "dependencies": {
+    "mark_logger": "^1.0.1"
+  }
+}
