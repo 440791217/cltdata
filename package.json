@@ -1,6 +1,6 @@
 {
   "name": "mark_cltdata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "by mark",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "mark",
   "license": "ISC",
   "dependencies": {
-    "mark_logger": "^1.0.1"
+    "mark_logger": "^1.0.3"
   }
 }
